@@ -107,10 +107,10 @@
                 android:title="@string/firmware_version"
                 android:summary="@string/device_info_default"/>
 
-        <!-- Mod version -->
+        <!-- Meta OS version -->
         <Preference android:key="mod_version"
                 style="?android:preferenceInformationStyle"
-                android:title="@string/mod_version"
+                android:title="@string/metaos_version"
                 android:summary="@string/mod_version_default" />
 
         <!-- CyanogenMod API Version -->
